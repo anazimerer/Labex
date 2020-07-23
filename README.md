@@ -1,7 +1,5 @@
 <h1 align="center"> Labex - viagens espaciais</h1>
-<hr />
-
-<p>Status: em andamento
+<p><b>Status: </b>em andamento</p>
   
 <p align="justify"> O Labex é um site de aquisição de candidatos para viagens espaciais. Ele apresenta de forma pública todas as viagens disponíveis nas quais é possível realizar uma candidatura. As candidaturas são aceitas ou recusadas pelo administrador que, através de um login, tem acesso a todas as páginas do site, podendo também adicionar e remover viagens. </p>
 
