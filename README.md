@@ -24,10 +24,10 @@
 <p>- Autenticação e autorização</p>
 
 <h3>Como rodar a aplicação: </h3>
-<li>No terminal: </li>
-<li>  - Clone o projeto:<i>git clone link_do_repo</i></li>
-<li>  - Entre na pasta do projeto:<i>cd Labex</i></li>
-<li>  - Instale as dependências: <i>npm install</i></li>
-<li>  - Rode o projeto <i>npm run start</i></li>
+<p>No terminal: </p>
+<li> Clone o projeto:<i>git clone link_do_repo</i></li>
+<li> Entre na pasta do projeto:<i>cd Labex</i></li>
+<li> Instale as dependências: <i>npm install</i></li>
+<li> Rode o projeto <i>npm run start</i></li>
 
 
