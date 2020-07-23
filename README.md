@@ -12,22 +12,22 @@
 <p>:hourglass_flowing_sand: Aprovação e reprovação de candidatura </p>
 
 <h3>Algumas das tecnologias e ferramentas utilizadas: </h3>
-<p>- React </p>
-<p>- HTML</p>
-<p>- CSS</p>
-<p>- Javascript</p>
-<p>- Node</p>
-<p>- React Router </p>
-<p>- Uso de bibliotecas de UI (Materialize)</p>
-<p>- Styled-components</p>
-<p>- Formulários com validação</p>
-<p>- Autenticação e autorização</p>
+<li> React </p>
+<li> HTML</p>
+<li> CSS</p>
+<li> Javascript</p>
+<li> Node</p>
+<li> React Router </p>
+<li> Uso de bibliotecas de UI (Materialize)</p>
+<li> Styled-components</p>
+<li> Formulários com validação</p>
+<li> Autenticação e autorização</p>
 
 <h3>Como rodar a aplicação: </h3>
 <p>No terminal: </p>
-<li> Clone o projeto:<i>git clone link_do_repo</i></li>
-<li> Entre na pasta do projeto:<i>cd Labex</i></li>
+<li> Clone o projeto: <i>git clone link_do_repo</i></li>
+<li> Entre na pasta do projeto: <i>cd Labex</i></li>
 <li> Instale as dependências: <i>npm install</i></li>
-<li> Rode o projeto <i>npm run start</i></li>
+<li> Rode o projeto: <i>npm run start</i></li>
 
 
